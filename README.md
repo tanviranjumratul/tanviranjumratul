@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)](https://tanviranjumratul.github.io)
 <h1 align="center">Hi 👋, I'm Tanvir Anjum Ratul</h1>
 <h3 align="center">An Aspiring Data Analyst from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="(https://drive.google.com/file/d/1LcmBFQGe1nDDhsgRhi13Fcbvi-QoODMd/view?usp=sharing)")
+<img align="right" alt="Coding" width="400" src="(https://drive.google.com/file/d/1LcmBFQGe1nDDhsgRhi13Fcbvi-QoODMd/view?usp=sharing)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviranjumratul&label=Profile%20views&color=0e75b6&style=flat" alt="tanviranjumratul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanviranjumratul" alt="tanviranjumratul" /></a> </p>
