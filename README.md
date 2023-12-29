@@ -1,11 +1,11 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)](https://tanviranjumratul.github.io)
 <h1 align="center">Hi 👋, I'm Tanvir Anjum Ratul</h1>
 <h3 align="center">An Aspiring Data Analyst from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="(https://drive.google.com/file/d/1LcmBFQGe1nDDhsgRhi13Fcbvi-QoODMd/view?usp=sharing)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviranjumratul&label=Profile%20views&color=0e75b6&style=flat" alt="tanviranjumratul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanviranjumratul" alt="tanviranjumratul" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <a href="https://twitter.com/tanvir_a_ratul" target="blank"><img src="https://img.shields.io/twitter/follow/tanvir_a_ratul?logo=twitter&style=for-the-badge" alt="tanvir_a_ratul" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis & Web Scraping**
