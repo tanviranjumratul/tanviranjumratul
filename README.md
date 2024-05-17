@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mail.tanvirar@gmail.com**
 
-- 📄 Here Is My CV - [[Click Here](https://drive.google.com/file/d/1Fz_cHS_VVK6wLiw6g_TI92qmqHpwt3K1/view?usp=drive_link)](https://drive.google.com/drive/folders/1jsH-Lfl3cSw4QAcO4WqcnhYHg1VQ3PZF?usp=drive_link)
+- 📄 Here Is My CV - [[Click Here](https://drive.google.com/drive/folders/1jsH-Lfl3cSw4QAcO4WqcnhYHg1VQ3PZF?usp=drive_link)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvir_a_ratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir_a_ratul" height="30" width="40" /></a>
